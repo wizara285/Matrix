@@ -4,7 +4,7 @@
     {
         public static void Main(string[] args)
         {
-            double[,] array2D = new double[,] { { 1, 2 },
+            double[,] array2D = new double[,] { { 1, -2 },
                                                 { 3, 4 } };
 
 
